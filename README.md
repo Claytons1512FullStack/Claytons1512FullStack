@@ -297,7 +297,7 @@ Quero transformar conhecimento técnico em **produtos reais, úteis e escalávei
 ### 📧 E-mail
 
 📩 Entre em contato através do meu perfil do GitHub.
-
+claytonsalesfullstack@gmail.com
 ---
 
 <div align="center">
